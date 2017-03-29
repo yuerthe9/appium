@@ -11,11 +11,17 @@ See [Windows App Testing](/docs/en/writing-running-appium/windows-app-testing.md
 To get started:
 
    1. Download latest [node and npm tools](https://nodejs.org/download/release/v6.3.0/node-v6.3.0-x64.msi) MSI (version >= 6.0). The `npm` and `nodejs` paths should be in your PATH environment variable.（下载Node.js并安装到windows）
+   
    2. Open admin cmd prompt（打开管理员权限的cmd）
+   
    3. Run the command `npm install -g appium` which will install Appium from NPM（在命令行中输入 `npm install -g appium`命令，安装appium）
+   
    4. To start Appium, you can now simply run `appium` from the prompt.（启动appium非常简单，命令行执行`appium`即可）
+   
    5. Follow the directions below for setup for either Android or Windows app testing.（接下来就是编写和设置测试脚本）
+   
    6. Run a test from any Appium client.（最后，通过appium-client运行测试脚本）
+   
 ## Additional Setup for Android App Testing
 
    1. Download the latest Java JDK [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (accept the license agreement first). Set 'JAVA_HOME' to be your JDK path. The `bin` in that directory should be added to your PATH variable.
