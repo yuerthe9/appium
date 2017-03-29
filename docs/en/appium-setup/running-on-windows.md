@@ -20,7 +20,7 @@ To get started:
    
    5. Follow the directions below for setup for either Android or Windows app testing.（接下来就是编写和设置测试脚本）
    
-   6. Run a test from any Appium client.（最后，通过appium-client运行测试脚本）
+   6. Run a test from any Appium client.（最后，运行测试脚本）
    
 ## Additional Setup for Android App Testing
 
